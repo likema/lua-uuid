@@ -1,3 +1,9 @@
+lua-uuid (1.0.0-2) oneiric; urgency=low
+
+  * Add uuid-dev to debian build depends.
+
+ -- Like Ma <likemartinma@gmail.com>  Mon, 30 Apr 2012 04:33:37 +0800
+
 lua-uuid (1.0.0-1) oneiric; urgency=low
 
   * Initial release.
